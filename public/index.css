@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: lime;
+  background-color: black;
+}
+
+input:-internal-autofill-selected {
+  color: lime;
+  background-color: black;
+}
